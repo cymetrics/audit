@@ -6,6 +6,6 @@ Cymetrics is the cybersecurity arm of OneDegree Global, incorporated in Singapor
 
 | Project | Date | Report |
 | -------- | -------- | -------- |
-| LazyOtter     | July 2024     | 📖     |
-|LazyOtter|August 2024|📖|
-|LazyOtter|September 2024|📖|
+| LazyOtter     | July 2024     | [📖](https://github.com/cymetrics/audit/blob/main/LazyOtter/LazyOtter-Cymetrics-Audit-Report-202407.pdf)     |
+|LazyOtter|August 2024|[📖](https://github.com/cymetrics/audit/blob/main/LazyOtter/LazyOtter-Cymetrics-Audit-Report-202408.pdf)|
+|LazyOtter|September 2024|[📖](https://github.com/cymetrics/audit/blob/main/LazyOtter/LazyOtter-Cymetrics-Audit-Report-202409.pdf)|
